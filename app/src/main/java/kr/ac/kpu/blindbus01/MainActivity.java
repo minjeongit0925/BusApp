@@ -204,6 +204,6 @@ public class MainActivity extends AppCompatActivity implements TextToSpeech.OnIn
     }
 
 //    String getBusStationXmlData(){
-//
+//      StringBuffer buffer = new StringBuffer();
 //    }
 }
